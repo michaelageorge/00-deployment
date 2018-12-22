@@ -36,4 +36,4 @@
 Link to an image of the UML for your application and response to events
 
 ### Assistance/Credit
-* John Cokos - demo in class
+* John Cokos - followed demo in class to create this lab
